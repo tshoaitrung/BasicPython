@@ -9,9 +9,18 @@ try:
     check_ising = int(IPut)
     print("The input could be the interger type")
 except:
-    print("The input could not be the interger type")
+    #print("The input could not be the interger type")
     try:
         check_isfl = float(IPut)
         print("The input could be the float type")
     except:
-        print("The input could not be the float type")
+        #print("The input could not be the float type")
+        if len(IPut) > 1 :
+            if IPut[0] == '[' and IPut[-1] == ']' :
+                print("The input could be the list or string")
+            elif IPut[0] == '(' and IPut[-1] == ')' :
+                print("The input could be the Tuples or string")
+            else:
+                print("The input could be the string")
+        else:
+            print("the input could be the string type")
