@@ -1,0 +1,44 @@
+Insert your bank account name to create your account: Hana
+Your Bank information:
+	Name of Bank: Norea
+	ID of BankNO_SE12345
+Your Account information:
+	Account Name: Hana
+	Account Balance: 0
+Choose your service D/d for Deposit or W/w for withdraw: D
+Insert your money you want to deposit: 105
+You deposited 105 to your account Hana
+Your total balances  after deposit is: 105
+Do you sure you want to deposit( enter Y or N): Y
+DEPOSIT SUCCESSFULLY
+Do you want to continue with our services (deposit and withdraw). Please choose Y or N: Y
+Choose your service D/d for Deposit or W/w for withdraw: D
+Insert your money you want to deposit: 3
+You deposited 3 to your account Hana
+Your total balances  after deposit is: 108
+Do you sure you want to deposit( enter Y or N): N
+DEPOSIT DECINED
+Do you want to continue with our services (deposit and withdraw). Please choose Y or N: W
+Do you want to continue with our services (deposit and withdraw). Please choose Y or N: Y
+Choose your service D/d for Deposit or W/w for withdraw: W
+Insert your money you want to withdraw: 107
+You dont have enough money to withdraw
+Please choose amount smaller than 105
+WITHDRAW DECINED
+Do you want to continue with our services (deposit and withdraw). Please choose Y or N: Y
+Choose your service D/d for Deposit or W/w for withdraw: w
+Insert your money you want to withdraw: 15
+you withdraw 15 from your account
+you new balance is 90
+Do you sure you want to withdraw( enter Y or N): Y
+WITHDRAW SUCCESSFULLY
+Do you want to continue with our services (deposit and withdraw). Please choose Y or N: N
+Total 1 successful deposit times and 1 successful withdraw times
+Your Bank information:
+	Name of Bank: Norea
+	ID of BankNO_SE12345
+Your Account information:
+	Account Name: Hana
+	Account Balance: 90
+Thanks for using our service. GOODBYE!
+
