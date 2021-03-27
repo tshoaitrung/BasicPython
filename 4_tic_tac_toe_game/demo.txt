@@ -1,0 +1,65 @@
+Let play the TIC TOC TOE GAME
+PERFECT LET PLAY OUR TIC TOC TOE GAME
+The broad of this game: 
+For each step, please choose the number coresponding to the space (as the you want to put your 'x' or 'o'
+ 1 | 2 | 3 
+---|---|---
+ 4 | 5 | 6 
+---|---|---
+ 7 | 8 | 9 
+Player 1 please choose X or O is yours: O
+The player 1 chooses O and player 2 choose X
+Player 1 please choose your number (1-9): 5
+ 1 | 2 | 3 
+---|---|---
+ 4 | O | 6 
+---|---|---
+ 7 | 8 | 9 
+Player 2 please choose your number (1-9): 5
+This position is chosen, please choose again
+Player 2 please choose your number (1-9): 1
+ X | 2 | 3 
+---|---|---
+ 4 | O | 6 
+---|---|---
+ 7 | 8 | 9 
+Player 1 please choose your number (1-9): 4
+ X | 2 | 3 
+---|---|---
+ O | O | 6 
+---|---|---
+ 7 | 8 | 9 
+Player 2 please choose your number (1-9): 6
+ X | 2 | 3 
+---|---|---
+ O | O | X 
+---|---|---
+ 7 | 8 | 9 
+Player 1 please choose your number (1-9): 8
+ X | 2 | 3 
+---|---|---
+ O | O | X 
+---|---|---
+ 7 | O | 9 
+Player 2 please choose your number (1-9): 2
+ X | X | 3 
+---|---|---
+ O | O | X 
+---|---|---
+ 7 | O | 9 
+Player 1 please choose your number (1-9): 9
+ X | X | 3 
+---|---|---
+ O | O | X 
+---|---|---
+ 7 | O | O 
+Player 2 please choose your number (1-9): 3
+ X | X | X 
+---|---|---
+ O | O | X 
+---|---|---
+ 7 | O | O 
+Congrat! Player 2 win this game
+Do you want the new game? Choose Y or N: N
+GOODBYE
+
