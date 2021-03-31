@@ -1,0 +1,190 @@
+		TURN 416:
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 45 cards			 TOTAL: 7 cards
+----------			 ----------
+|♦       |			 |♣       |
+| ****** |			 | ****** |
+| ****** |			 | ****** |
+|     ** |			 |     ** |
+|     ** |			 |     ** |
+|    **  |			 |    **  |
+|   **   |			 |   **   |
+|  **    |			 |  **    |
+| **     |			 | **     |
+|       ♦|			 |       ♣|
+----------			 ----------
+	 ###WAR - LET FLIGHT###
+TOTAL CARD IN WAITING LIST IS 2 to wait the winner of this was
+DISTRIBUTE THREE TOP CARDS AND LET COMPARE THE 4TH CARD
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 41 cards			 TOTAL: 3 cards
+----------			 ----------
+|♠       |			 |♣       |
+| **  ** |			 |   **   |
+| ** **  |			 |  *  *  |
+| ****   |			 |  *  *  |
+| ***    |			 |   **   |
+| ***    |			 |  *  *  |
+| ****   |			 | *    * |
+| ** **  |			 | *    * |
+| **  ** |			 |  ****  |
+|       ♠|			 |       ♣|
+----------			 ----------
+
+		TURN 417:
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 50 cards			 TOTAL: 2 cards
+----------			 ----------
+|♣       |			 |♥       |
+|  ****  |			 |  ****  |
+| ****** |			 | **  ** |
+| **  ** |			 | **  ** |
+| **     |			 |  ***** |
+| *****  |			 |     ** |
+| **  ** |			 | **  ** |
+| **  ** |			 | ****** |
+|  ****  |			 |  ****  |
+|       ♣|			 |       ♥|
+----------			 ----------
+	PLAYER 2 WON THIS TURN
+
+		TURN 418:
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 49 cards			 TOTAL: 3 cards
+----------			 ----------
+|♠       |			 |♠       |
+| **     |			 |   **   |
+| **     |			 |  *  *  |
+| **  ** |			 |  *  *  |
+| ****** |			 |   **   |
+|  ***** |			 |  *  *  |
+|     ** |			 | *    * |
+|     ** |			 | *    * |
+|     ** |			 |  ****  |
+|       ♠|			 |       ♠|
+----------			 ----------
+	PLAYER 2 WON THIS TURN
+
+		TURN 419:
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 48 cards			 TOTAL: 4 cards
+----------			 ----------
+|♣       |			 |♥       |
+| ****** |			 |  ****  |
+| ****** |			 | **  ** |
+| **     |			 | **  ** |
+| ****   |			 |  ***** |
+| *****  |			 |     ** |
+|     ** |			 | **  ** |
+|     ** |			 | ****** |
+| *****  |			 |  ****  |
+|       ♣|			 |       ♥|
+----------			 ----------
+	PLAYER 2 WON THIS TURN
+
+		TURN 420:
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 47 cards			 TOTAL: 5 cards
+----------			 ----------
+|♦       |			 |♣       |
+| *  **  |			 |  ****  |
+| * *  * |			 | ****** |
+| * *  * |			 | **  ** |
+| * *  * |			 | **     |
+| * *  * |			 | *****  |
+| * *  * |			 | **  ** |
+| * *  * |			 | **  ** |
+| *  **  |			 |  ****  |
+|       ♦|			 |       ♣|
+----------			 ----------
+	PLAYER 1 WON THIS TURN
+
+		TURN 421:
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 48 cards			 TOTAL: 4 cards
+----------			 ----------
+|♥       |			 |♠       |
+| ****** |			 |   **   |
+| ****** |			 |  *  *  |
+| **     |			 |  *  *  |
+| ****   |			 |   **   |
+| *****  |			 |  *  *  |
+|     ** |			 | *    * |
+|     ** |			 | *    * |
+| *****  |			 |  ****  |
+|       ♥|			 |       ♠|
+----------			 ----------
+	PLAYER 2 WON THIS TURN
+
+		TURN 422:
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 47 cards			 TOTAL: 5 cards
+----------			 ----------
+|♦       |			 |♠       |
+|   **   |			 | **     |
+|  ***   |			 | **     |
+| ****   |			 | **  ** |
+|   **   |			 | ****** |
+|   **   |			 |  ***** |
+|   **   |			 |     ** |
+| ****** |			 |     ** |
+| ****** |			 |     ** |
+|       ♦|			 |       ♠|
+----------			 ----------
+	PLAYER 2 WON THIS TURN
+
+		TURN 423:
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 46 cards			 TOTAL: 6 cards
+----------			 ----------
+|♠       |			 |♥       |
+|   **   |			 |  ****  |
+|  ****  |			 | **  ** |
+| **  ** |			 | **  ** |
+| **  ** |			 |  ***** |
+| **  ** |			 |     ** |
+| ** *** |			 | **  ** |
+|  ****  |			 | ****** |
+|   **** |			 |  ****  |
+|       ♠|			 |       ♥|
+----------			 ----------
+	PLAYER 1 WON THIS TURN
+
+		TURN 424:
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 47 cards			 TOTAL: 5 cards
+----------			 ----------
+|♦       |			 |♣       |
+| ****** |			 | ****** |
+| ****** |			 | ****** |
+| **     |			 | **     |
+| ****   |			 | ****   |
+| *****  |			 | *****  |
+|     ** |			 |     ** |
+|     ** |			 |     ** |
+| *****  |			 | *****  |
+|       ♦|			 |       ♣|
+----------			 ----------
+	 ###WAR - LET FLIGHT###
+TOTAL CARD IN WAITING LIST IS 2 to wait the winner of this was
+DISTRIBUTE THREE TOP CARDS AND LET COMPARE THE 4TH CARD
+PLAYER 1: Hanna			 PLAYER 2: Anna
+TOTAL: 43 cards			 TOTAL: 1 cards
+----------			 ----------
+|♠       |			 |♦       |
+|  ****  |			 |   **   |
+| ****** |			 |  ***   |
+|     ** |			 | ****   |
+|    **  |			 |   **   |
+|    **  |			 |   **   |
+|     ** |			 |   **   |
+| ****** |			 | ****** |
+|  ****  |			 | ****** |
+|       ♠|			 |       ♦|
+----------			 ----------
+### CONGRAT PLAYER 1 - YOU ARE THE NEW WINNER ###
+
+ DO YOU WANT A NEW GAME (Y/N ONLY): N
+
+		THANK YOU PLAY GAME WITH US! GOOGBYE!
+
