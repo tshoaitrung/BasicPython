@@ -16,16 +16,17 @@ print('\n\tWELCOME TO TIC TAC TOE GAME')
 is_playing = True
 while is_playing == True:
     #set up a new game
-    print ('\n\t START A NEW GAME')
-    print('\tThe broad of this game: ')
-    print("For each step, please choose the number coresponding to the space")
+    print ('\n\t START A NEW GAME')  
     index_marking = [[0,1,1], [0,5,2], [0,9,3], [2,1,4], [2,5,5], [2,9,6], [4,1,7], [4,5,8], [4,9,9]] # save the location of symbol and step of players
     broad_matrix = [[' ','1',' ','|',' ','2',' ','|',' ','3',' '],['-','-','-','|','-','-','-','|','-','-','-'],[' ','4',' ','|',' ','5',' ','|',' ','6',' '],['-','-','-','|','-','-','-','|','-','-','-'],[' ','7',' ','|',' ','8',' ','|',' ','9',' ']]#saving the current broad to display on the screen
-    print_broad(broad_matrix)
+    
     player_symbol = player_choose_symbol()
     print('\n The player 1 choose : ' + symbolTT(player_symbol[0][1]) + '\t and player 2 choose: ' + symbolTT(player_symbol[1][1]))
-    print('\n\t GAME STARTS NOW')
+    print('\n\t\t GAME STARTS NOW')
     #start a game
+    print('\tThe broad of this game: ')
+    print("For each step, please choose the number coresponding to the space")
+    print_broad(broad_matrix)
     num_step = 0 #maximum step  = 8
     win = False # check win or not to finish the game
     
